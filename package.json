@@ -1,0 +1,28 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.0.9",
+    "vite-plugin-solid": "^2.3.0"
+  },
+  "dependencies": {
+    "@prismicio/client": "^6.7.0",
+    "@prismicio/helpers": "^2.3.5",
+    "@prismicio/react": "^2.5.0",
+    "graphql-request": "^5.0.0",
+    "prismic-helpers": "^1.0.3",
+    "solid-app-router": "^0.4.2",
+    "solid-js": "^1.5.1"
+  }
+}
